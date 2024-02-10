@@ -2,8 +2,8 @@
 
 ### Olá! Eu sou o Leopoldo Moreira 👋
 
-- 🔭 Estou buscando minha primeira oportunidade como desenvolvedor web (cursando Engenharia da Computação);
-- 🌱 Estou atualmente aprendendo HTML, CSS, JavaScript e suas maravilhosas bibliotecas/frameworks;
+- 🔭 Estou buscando minha primeira oportunidade como desenvolvedor front end (cursando Engenharia da Computação);
+- 🌱 Atualmente aprendendo HTML, CSS, JavaScript e suas maravilhosas bibliotecas/frameworks;
 - 📫 Me contate por e-mail: leopoldomoreira.lm@gmail.com.
 
 
