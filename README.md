@@ -12,18 +12,3 @@
   <img style="height: 13em" src="https://github-readme-stats.vercel.app/api?username=leopoldo-moreira&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" />
   <img style="height: 13em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopoldo-moreira&theme=radical&langs_count=8&layout=compact&hide_border=true" />  
 </div>
-
-<div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/leopoldo-moreira/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
-		
-
-
-
